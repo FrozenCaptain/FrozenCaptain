@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maurits Schuurman (@FrozenCaptain)
 - 👀 I’m interested in Music Production and Building Large Scale applications
-- 🌱 I’m currently learning How to build big node.js projects
+- 🌱 I’m currently learning how to build full stack node.js projects
 - 💞️ I’m looking to collaborate on Interactive Tools
 
 <!---
