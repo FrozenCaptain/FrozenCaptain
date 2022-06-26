@@ -70,14 +70,7 @@
 </a>
 <br><br>
 
-<a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frozencaptain&count_private=true&theme=dark" alt="Maurits's GitHub Streak Stats"/>
-</a>
-<br><br>
 
-<a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=frozencaptain&count_private=true&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Maurits's GitHub Contributions Graph"/>
-</a>
 
 
 
