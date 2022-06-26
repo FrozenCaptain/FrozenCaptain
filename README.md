@@ -57,11 +57,11 @@
 
 # GitHub Stats 📈
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozencaptain&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozencaptain&hide=less&title_color=d13979&count_private=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frozencaptain&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Maurits%27s%20Github%20Stats&count_private=true" alt="Maurits's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=frozencaptain&count_private=true&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=Maurits%27s%20Github%20Stats" alt="Maurits's GitHub Stats" />
 </a>
 <br><br>
 
