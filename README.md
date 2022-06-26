@@ -66,7 +66,7 @@
 <br><br>
 
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frozencaptain&count_private=true&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Maurits's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frozencaptain&count_private=true&theme=radical&hide_border=true" alt="Maurits's GitHub Stats Graph"/>
 </a>
 <br><br>
 
