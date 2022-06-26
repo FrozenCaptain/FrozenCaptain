@@ -7,8 +7,6 @@
   </a>
 </p>
 
-# Hello Folks! 
-
  <p align="left">My name is Maurits and I'm a Fullstack Developer.
   
   I'm from The Netherlands, living in Zwolle and currently Working @ [Capillar](https://capillar.nl).
