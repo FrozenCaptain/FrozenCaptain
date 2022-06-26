@@ -57,7 +57,7 @@
 
 # GitHub Stats 📈
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozencaptain&hide=less&title_color=d13979&count_private=true&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frozencaptain&count_private=true&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
 <a href="https://github.com/FrozenCaptain">
@@ -66,17 +66,17 @@
 <br><br>
 
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frozencaptain&theme=radical&hide_border=true&count_private=true)](https://github.com/rahulkarda" alt="Maurits's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frozencaptain&count_private=true&theme=radical&hide_border=true)](https://github.com/rahulkarda" alt="Maurits's GitHub Stats Graph"/>
 </a>
 <br><br>
 
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frozencaptain&theme=dark&count_private=true" alt="Maurits's GitHub Streak Stats"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frozencaptain&count_private=true&theme=dark" alt="Maurits's GitHub Streak Stats"/>
 </a>
 <br><br>
 
 <a href="https://github.com/FrozenCaptain">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=frozencaptain&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph&count_private=true" alt="Maurits's GitHub Contributions Graph"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=frozencaptain&count_private=true&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Maurits's GitHub Contributions Graph"/>
 </a>
 
 
