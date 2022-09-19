@@ -16,13 +16,13 @@
 
 
 
-🌱 I’m currently learning Fastify, NuxtJS, Svelte
+🌱 I’m currently learning NextJS, React
 
 👯 I’m looking to collaborate on different projects
 
 📝 I actively post on [LinkedIn](https://www.linkedin.com/in/mauritsschuurman/)
 
-👀 Ask me about Vue, SQL, TypeScript, NodeJS, and APIs
+👀 Ask me about Vue, React, PostgreSQL, TypeScript, NodeJS, and APIs
 
 📫 You can reach me at Discord [FrozenCaptain#2114](https://discordapp.com/users/169869810421727235/)
 
