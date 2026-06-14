@@ -10,10 +10,5 @@ My name is Maurits and I'm a Fullstack Developer.<br><br>🌱 I’m currently le
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FrozenCaptain&theme=default&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FrozenCaptain&theme=default)<br/>
-
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mauritsschuurman) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
